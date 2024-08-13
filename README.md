@@ -1,4 +1,4 @@
-                                                     # __Resume__
+# Resume
                                                      
 
 # Name:G.Lokesh
